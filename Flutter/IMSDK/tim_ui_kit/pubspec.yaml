@@ -48,7 +48,7 @@ dependencies:
   json_annotation: ^4.4.0
   js: ^0.6.3
   scroll_to_index: ^2.1.1
-  wechat_assets_picker: ^7.0.2
+  wechat_assets_picker: ^8.1.3
 #  tencent_wechat_camera_picker:
 #    path: /Users/wangrunlin/Documents/GitHub/tencent_flutter_wechat_camera_picker
   tencent_wechat_camera_picker: ^3.6.2+5
